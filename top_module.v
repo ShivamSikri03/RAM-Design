@@ -1,4 +1,4 @@
-module simple_sync_ram (
+module ram (
     input wire clk,           
     input wire we,            
     input wire [3:0] addr,    
